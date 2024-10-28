@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dinesh281197
+- 👋 Hi, I’m Dinesh Kuamr S
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data analytics
 - 📫 to reach me s.dinesh.works@gmail.com
