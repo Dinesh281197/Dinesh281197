@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Dinesh Kumar S
 - 👀 I'm a Data Analyst
 - 🌱 I Love to Solve Problems
+- 🔍   My Portfolio (https://codebasics.io/portfolio/Dinesh-Kumar-S)
 - 📫 to reach me s.dinesh.works@gmail.com
   
 
