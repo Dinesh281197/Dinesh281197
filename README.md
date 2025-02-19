@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dinesh Kuamr S
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data analytics
+- 👀 I'm a Data Analyst
+- 🌱 I Love to Solve Problems
 - 📫 to reach me s.dinesh.works@gmail.com
   
 
