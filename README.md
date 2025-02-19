@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dinesh Kuamr S
+- 👋 Hi, I’m Dinesh Kumar S
 - 👀 I'm a Data Analyst
 - 🌱 I Love to Solve Problems
 - 📫 to reach me s.dinesh.works@gmail.com
